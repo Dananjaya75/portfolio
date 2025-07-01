@@ -40,3 +40,12 @@ li{
     background-color: white;
     color: #ff6b81;
 }
+.form1{
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px #ff6b81;
+}
