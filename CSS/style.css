@@ -24,6 +24,7 @@ li{
     font-size: 15px;
     font-weight: 700;
     width: 50%;
+    text-decoration: none;
 }
 .btn{
     width: 150px;
@@ -58,4 +59,20 @@ li{
 }
 .form1 input,textarea{
     opacity: 0.6;
+}
+h5{
+    color: white;
+}
+.menu{
+    
+}
+@media(max-width: 450px){
+    .navbar-light{
+        display: none;
+    }
+   
+
+
+
+
 }
